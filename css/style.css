@@ -65,3 +65,84 @@ body{
     margin-top: 20px;
 
 }
+.lista{
+    font-family:"Palanquin",sans-serif;
+    margin-top: 20px;
+}
+
+.sottoliste{
+
+    margin-left: 20px;
+}
+.lista{
+
+    line-height: 45px;
+    margin-bottom: 50px;
+    
+    
+}
+.blu{
+
+font-size: small;
+background-color: lightskyblue;
+border-radius: 35%;
+
+padding-left: 10px;
+padding-right: 10px;
+padding-top: 4px;
+padding-bottom: 5px;
+}
+.viola{
+    font-size: small;
+background-color: rgb(187, 100, 187);
+border-radius: 35%;
+
+padding-left: 10px;
+padding-right: 10px;
+padding-top: 4px;
+padding-bottom: 5px;
+
+}
+.green{
+
+    font-size: small;
+background-color: rgb(27, 128, 7);
+border-radius: 35%;
+
+padding-left: 10px;
+padding-right: 10px;
+padding-top: 4px;
+padding-bottom: 5px;
+}
+.orange{
+
+    font-size: small;
+background-color: rgb(231, 89, 23);
+border-radius: 35%;
+
+padding-left: 10px;
+padding-right: 10px;
+padding-top: 4px;
+padding-bottom: 5px;
+}
+.pink{
+    font-size: small;
+background-color: pink;
+border-radius: 35%;
+
+padding-left: 10px;
+padding-right: 10px;
+padding-top: 4px;
+padding-bottom: 5px;
+}
+.lighgreen{
+
+    font-size: small;
+background-color: greenyellow;
+border-radius: 35%;
+
+padding-left: 10px;
+padding-right: 10px;
+padding-top: 4px;
+padding-bottom: 5px;
+}
